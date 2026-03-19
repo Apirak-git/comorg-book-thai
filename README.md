@@ -2,4 +2,4 @@
 
 ## สารบัญหลัก
 
-* [บทที่ 5: หน่วยความจำภายใำ (Internal Memory)](chapter-5/README.md)
+* [บทที่ 5: หน่วยความจำภายใน (Internal Memory)](chapter-5/README.md)
